@@ -1,6 +1,5 @@
 ## Isabella Farias 
 
-<div style="display: flex; flex-direction: column;">
 # Frontend skills
     - React.js
     - HTML5, CSS3, Bootstrap, Styled components
@@ -8,7 +7,6 @@
     - Axios, React Router, React Redux, React Testing Library, Jest, Babel
     - Ant Design / Material Design, Eslint
     - NPM
-</div>
 
 # 💻 My tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
