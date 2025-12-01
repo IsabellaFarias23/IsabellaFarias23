@@ -20,7 +20,8 @@
             <br>BootStrap
         </td> 
          <td align="center" width="100">
-            <img src="https://www.flaticon.com/free-icon/physics_753244?term=react&page=1&position=11&origin=search&related_id=753244" alt="icon" width="47" height="47" />
+            <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e1129175-1ba9-44bb-8885-71449140286e" />
+" alt="icon" width="47" height="47" />
             <br>React
         </td>
         <td align="center" width="100">
