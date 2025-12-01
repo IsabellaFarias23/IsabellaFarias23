@@ -53,9 +53,25 @@
         </td>
         </tr>
         <tr>
-            <td align="center" width="100">
+        <td align="center" width="100">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="icon" width="47" height="47" />
             <br>Redux
+        </td>
+        <td align="center" width="100">
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" alt="icon" width="47" height="47" />
+            <br>Jest
+        </td>
+        <td align="center" width="100">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VnYmU0Y2c1M255aGx1dW0weDM5ZmVhZWV5aTI2ZjdvbG9mN2l2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17mNCcKU1mJlrbXodo/giphy.gif" alt="icon" width="47" height="47" />
+            <br>Nest.js
+        </td>
+            <td align="center" width="100">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VnYmU0Y2c1M255aGx1dW0weDM5ZmVhZWV5aTI2ZjdvbG9mN2l2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17mNCcKU1mJlrbXodo/giphy.gif" alt="icon" width="47" height="47" />
+            <br>PostgreSQL
+        </td>
+            <td align="center" width="100">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VnYmU0Y2c1M255aGx1dW0weDM5ZmVhZWV5aTI2ZjdvbG9mN2l2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17mNCcKU1mJlrbXodo/giphy.gif" alt="icon" width="47" height="47" />
+            <br>Docker
         </td>
         </tr>
     </table>
