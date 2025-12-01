@@ -20,7 +20,7 @@
             <br>BootStrap
         </td> 
          <td align="center" width="100">
-            <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZobXQ4bWV3dmJtNWNtOXF4cW1zcHl1aHFlc3dhMmNyZTVrNTFzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EJNm9rPe4J8FSIfZqm/giphy.gif](https://cdn.iconscout.com/icon/free/png-256/free-react-icon-svg-download-png-282599.png?f=webp)" alt="icon" width="47" height="47" />
+            <img src="https://www.flaticon.com/free-icon/physics_753244?term=react&page=1&position=11&origin=search&related_id=753244" alt="icon" width="47" height="47" />
             <br>React
         </td>
         <td align="center" width="100">
