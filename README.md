@@ -37,29 +37,25 @@
         </td>
         <td align="center" width="100">
             <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="icon" width="47" height="47" />
-            <br>Nodejs
+            <br>Node.js
         </td>
         <td align="center" width="100">
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="icon" width="47" height="47" />
             <br>Git
         </td>
-        <td align="center" width="100">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="icon" width="47" height="47" />
-            <br>GitHub
-        </td>
-        <td align="center" width="100">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="icon" width="47" height="47" />
-            <br>Postman
-        </td>
-        </tr>
-        <tr>
-        <td align="center" width="100">
+            <td align="center" width="100">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="icon" width="47" height="47" />
             <br>Redux
         </td>
         <td align="center" width="100">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" alt="icon" width="47" height="47" />
             <br>Jest
+        </td>        
+        </tr>
+        <tr>
+            <td align="center" width="100">
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="icon" width="47" height="47" />
+            <br>Postman
         </td>
         <td align="center" width="100">
             <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VnYmU0Y2c1M255aGx1dW0weDM5ZmVhZWV5aTI2ZjdvbG9mN2l2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17mNCcKU1mJlrbXodo/giphy.gif" alt="icon" width="47" height="47" />
