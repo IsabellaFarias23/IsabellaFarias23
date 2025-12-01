@@ -30,8 +30,8 @@
             <img src="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="47" height="47"/>
             <br>React
         </td>
-        <td align="center" width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="icon" width="47" height="47" style="border-radius: 30%; display: block; margin: 0 auto;"/>
+        <td align="center" width="100" style="border-radius: 30px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="icon" width="47" height="47" />
             <br>TypeScript
         </td>
         <td align="center" width="100">
