@@ -31,6 +31,14 @@
             <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="icon" width="47" height="47" />
             <br>Nodejs
         </td>
+        <td align="center" width="100">
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="icon" width="47" height="47" />
+            <br>Git
+        </td>
+        <td align="center" width="100">
+            <img src="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="56" height="56" />
+            <br>GitHub
+        </td>
     </table>
 </div>
 
