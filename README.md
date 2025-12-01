@@ -19,7 +19,7 @@
             <br>CSS
         </td>
         <td align="center" width="100">
-            <img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/149/small_2x/js-icon-transparent-background-free-png.png" alt="icon" width="65" height="65" />
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="icon" width="647" height="47" />
             <br>JavaScript
         </td>
         <td align="center" width="100">
@@ -27,11 +27,11 @@
             <br>BootStrap
         </td> 
          <td align="center" width="100">
-            <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="icon" width="47" height="47"/>
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="icon" width="47" height="47"/>
             <br>React
         </td>
         <td align="center" width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="icon" width="47" height="47" />
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="icon" width="47" height="47" />
             <br>TypeScript
         </td>
         <td align="center" width="100">
@@ -43,7 +43,7 @@
             <br>Git
         </td>
         <td align="center" width="100">
-            <img src="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="56" height="56" />
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="icon" width="47" height="47" />
             <br>GitHub
         </td>
         <td align="center" width="100">
