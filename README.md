@@ -82,7 +82,7 @@
                 <br>Fedora
             </td>
             <td align="center" width="100">
-                <img src="https://images.seeklogo.com/logo-png/27/2/ubuntu-logo-png_seeklogo-274045.png" alt="icon" width="47" height="100"/>
+                <img src="https://images.seeklogo.com/logo-png/27/2/ubuntu-logo-png_seeklogo-274045.png" alt="icon" width="47" height="47"/>
                 <br>Ubuntu
             </td>    
             <td align="center" width="100">
