@@ -1,13 +1,13 @@
 # Isabella Farias 
 
-# Frontend skills
+## Frontend skills
     - React.js
     - HTML5, CSS3, Bootstrap, Styled components
     - JavaScript, TypeScript
     - Axios, React Router, React Redux, React Testing Library, Jest, Babel
     - Ant Design / Material Design, Eslint
 
-# 💻 My tools and technologies
+## 💻 My tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
         <tr>
@@ -20,7 +20,7 @@
             <br>CSS
         </td>
         <td align="center" width="100">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="icon" width="647" height="47" />
+            <img src="[https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg](https://abrudz.github.io/logos/JS.svg)" alt="icon" width="647" height="47" />
             <br>JavaScript
         </td>
         <td align="center" width="100">
