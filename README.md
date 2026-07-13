@@ -20,7 +20,7 @@
             <br>CSS
         </td>
         <td align="center" width="100">
-            <img src="[https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg](https://abrudz.github.io/logos/JS.svg)" alt="icon" width="647" height="47" />
+            <img src="https://abrudz.github.io/logos/JS.svg" alt="icon" width="647" height="47" />
             <br>JavaScript
         </td>
         <td align="center" width="100">
