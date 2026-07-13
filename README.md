@@ -76,12 +76,16 @@
 ## My Operating Systems
 <div style="display: flex; align-items: flex-start; align: center">
     <table>
-        <tr>
-            <td>
-            <img src="https://images.seeklogo.com/logo-png/27/2/fedora-logo-png_seeklogo-273082.png" alt="icon" width="47" height="47"/>
-            <br>Fedora
-        </td>
-            <td>
+            <tr>
+                <td align="center" width="100">
+                <img src="https://images.seeklogo.com/logo-png/27/2/fedora-logo-png_seeklogo-273082.png" alt="icon" width="47" height="47"/>
+                <br>Fedora
+            </td>
+            <td align="center" width="100">
+                <img src="https://images.seeklogo.com/logo-png/27/2/ubuntu-logo-png_seeklogo-274045.png" alt="icon" width="47" height="100"/>
+                <br>Ubuntu
+            </td>    
+            <td align="center" width="100">
                 <img src="https://images.seeklogo.com/logo-png/40/2/windows-11-icon-logo-png_seeklogo-406208.png" alt="icon" width="47" height="47"/>
                 <br>Windows
             </td>
