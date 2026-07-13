@@ -16,7 +16,7 @@
             <br>HTML5
         </td>
         <td align="center" width="100">
-            <img src="https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="48" height="48" alt="css" />
+            <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width="48" height="48" alt="css" />
             <br>CSS
         </td>
         <td align="center" width="100">
