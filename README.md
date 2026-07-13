@@ -7,7 +7,7 @@
     - Axios, React Router, React Redux, React Testing Library, Jest, Babel
     - Ant Design / Material Design, Eslint
 
-## 💻 My tools and technologies
+## My tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
         <tr>
@@ -73,3 +73,18 @@
     </table>
 </div>
 
+## My Operating Systems
+<div style="display: flex; align-items: flex-start; align: center">
+    <table>
+        <tr>
+            <td>
+            <img src="https://images.seeklogo.com/logo-png/27/2/fedora-logo-png_seeklogo-273082.png" alt="icon" width="47" height="47"/>
+            <br>Fedora
+        </td>
+            <td>
+                <img src="https://images.seeklogo.com/logo-png/40/2/windows-11-icon-logo-png_seeklogo-406208.png" alt="icon" width="47" height="47"/>
+                <br>Windows
+            </td>
+        </tr>
+    </table>
+</div>
