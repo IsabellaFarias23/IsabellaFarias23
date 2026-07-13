@@ -1,4 +1,4 @@
-## Isabella Farias 
+# Isabella Farias 
 
 # Frontend skills
     - React.js
