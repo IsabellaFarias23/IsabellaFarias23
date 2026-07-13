@@ -84,7 +84,15 @@
             <td align="center" width="100">
                 <img src="https://images.seeklogo.com/logo-png/27/2/ubuntu-logo-png_seeklogo-274045.png" alt="icon" width="47" height="47"/>
                 <br>Ubuntu
-            </td>    
+            </td>
+            <td align="center" width="100">
+                <img src="https://images.seeklogo.com/logo-png/48/2/pop-os-logo-png_seeklogo-489421.png" alt="icon" width="47" height="47"/>
+                <br>Pop_OS!
+            </td>
+                <td align="center" width="100">
+                <img src="https://dashboard.snapcraft.io/site_media/appmedia/2025/05/16889168_mmci5WX.png" alt="icon" width="47" height="47"/>
+                <br>Zorion OS
+            </td>  
             <td align="center" width="100">
                 <img src="https://images.seeklogo.com/logo-png/40/2/windows-11-icon-logo-png_seeklogo-406208.png" alt="icon" width="47" height="47"/>
                 <br>Windows
