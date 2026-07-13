@@ -24,7 +24,7 @@
             <br>JavaScript
         </td>
         <td align="center" width="100">
-            <img src="https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" alt="icon" width="47" height="47" />
+            <img src="https://images.seeklogo.com/logo-png/27/2/bootstrap-logo-png_seeklogo-272883.png" alt="icon" width="47" height="47" />
             <br>BootStrap
         </td>
             <td align="center" width="100">
