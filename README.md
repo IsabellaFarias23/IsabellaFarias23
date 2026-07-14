@@ -75,7 +75,7 @@
 
 ## My Operating Systems
 <div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
+    <table>
             <tr>
                 <td align="center" width="100">
                 <img src="https://images.seeklogo.com/logo-png/27/2/fedora-logo-png_seeklogo-273082.png" alt="icon" width="47" height="47"/>
