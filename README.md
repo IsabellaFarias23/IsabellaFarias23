@@ -14,39 +14,42 @@
             <td align="center"  width="100">
             <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width="48" height="48" alt="HTML5" />
             <br>HTML5
-        </td>
-        <td align="center" width="100">
-            <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width="48" height="48" alt="css" />
-            <br>CSS
-        </td>
-        <td align="center" width="100">
-            <img src="https://abrudz.github.io/logos/JS.svg" alt="icon" width="47" height="47" />
-            <br>JavaScript
-        </td>
-        <td align="center" width="100">
-            <img src="https://images.seeklogo.com/logo-png/27/2/bootstrap-logo-png_seeklogo-272883.png" alt="icon" width="47" height="47" />
-            <br>BootStrap
-        </td>
+            </td>
+            <td align="center" width="100">
+                <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width="48" height="48" alt="css" />
+                <br>CSS
+            </td>
+            <td align="center" width="100">
+                <img src="https://abrudz.github.io/logos/JS.svg" alt="icon" width="47" height="47" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="100">
+                <img src="https://images.seeklogo.com/logo-png/27/2/bootstrap-logo-png_seeklogo-272883.png" alt="icon" width="47" height="47" />
+                <br>BootStrap
+            </td>
+        </tr>
+        <tr>
             <td align="center" width="100">
             <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="icon" width="47" height="47" />
             <br>Node.js
-        </td>
-         <td align="center" width="100">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="icon" width="47" height="47"/>
-            <br>React
-        </td>
-        <td align="center" width="100">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="icon" width="47" height="47" />
-            <br>TypeScript
-        </td>
+            </td>
+             <td align="center" width="100">
+                <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="icon" width="47" height="47"/>
+                <br>React
+            </td>
             <td align="center" width="100">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="icon" width="47" height="47" />
-            <br>Redux
-        </td>
-        <td align="center" width="100">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" alt="icon" width="47" height="47" />
-            <br>Jest
-        </td> 
+                <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="icon" width="47" height="47" />
+                <br>TypeScript
+            </td>
+                <td align="center" width="100">
+                <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="icon" width="47" height="47" />
+                <br>Redux
+            </td>
+            <td align="center" width="100">
+                <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" alt="icon" width="47" height="47" />
+                <br>Jest
+            </td>
+        </tr>    
         <td align="center" width="100">
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="icon" width="47" height="47" />
             <br>Git
