@@ -27,7 +27,7 @@
                 <img src="https://images.seeklogo.com/logo-png/27/2/bootstrap-logo-png_seeklogo-272883.png" alt="icon" width="47" height="47" />
                 <br>BootStrap
             </td>
-            <td align="center" width="104">
+            <td align="center" width="105">
                 <img src="https://images.seeklogo.com/logo-png/38/2/ant-design-logo-png_seeklogo-380495.png" alt="icon" width="47" height="47"/>
                 <br>Ant Design
             </td>
