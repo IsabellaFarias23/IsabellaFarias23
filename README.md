@@ -9,7 +9,7 @@
 
 ## My tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
+    <table>
         <tr>
             <td align="center"  width="100">
             <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width="48" height="48" alt="HTML5" />
@@ -49,11 +49,7 @@
                 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" alt="icon" width="47" height="47" />
                 <br>Jest
             </td>
-        </tr>    
-        <td align="center" width="100">
-            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="icon" width="47" height="47" />
-            <br>Git
-        </td>                   
+        </tr>                
         </tr>
         <tr>
             <td align="center" width="100">
